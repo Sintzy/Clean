@@ -1,2 +1,5 @@
-# Clean
-Um .bat que vai apagar os ficheiros desnecessarios do seu pc :)
+# Cleaner
+
+Como usar?
+
+`Abra o .bat como administrador em seu pc`
